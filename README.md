@@ -1,5 +1,7 @@
 # Hi there, I'm Evan Cinco
 
+<img width="600" src="https://github.com/Nave205/Nave205/blob/main/img/My%20Github%20Cover.jpg">
+
 - 🔭 Currently settling down while job hunting here in the US!
 - 📚 I graduated in University of Santo Tomas (Philippines) in BS Computer Science
 - 🌱 Learning new languages and frameworks is a hobby of mine
